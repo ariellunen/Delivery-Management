@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "city": "Tel-Aviv",
+        "date": "11.01.2021"
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "city": "Haifa",
+        "date": "11.11.2025"
+    },
+    {
+        "id": 3,
+        "name": "John Doe",
+        "city": "Jerusalem",
+        "date": "14.11.2025"
+    }
+]
